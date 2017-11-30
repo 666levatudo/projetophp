@@ -1,0 +1,20 @@
+[23-Oct-2017 19:58:10] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[23-Oct-2017 20:09:12] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[26-Oct-2017 12:53:58] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[26-Oct-2017 12:56:48] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[26-Oct-2017 12:57:46] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[27-Oct-2017 20:26:39] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[27-Oct-2017 20:28:16] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[07-Nov-2017 19:55:37] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[09-Nov-2017 22:26:54] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[09-Nov-2017 22:28:46] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[09-Nov-2017 22:30:18] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[09-Nov-2017 22:31:13] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[09-Nov-2017 22:33:13] PHP Notice:  Undefined variable: login in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 25
+[19-Nov-2017 11:46:22] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 17
+[20-Nov-2017 20:15:58] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar_empy.php on line 17
+[20-Nov-2017 20:20:18] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar_empy.php on line 17
+[20-Nov-2017 20:20:31] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar_empy.php on line 17
+[21-Nov-2017 16:39:57] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 17
+[22-Nov-2017 01:09:46] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar.php on line 17
+[22-Nov-2017 01:14:53] PHP Warning:  sleep() expects exactly 1 parameter, 0 given in /home/pdtinfo/public_html/projeto_integrador/paginas/logar_empy.php on line 17
